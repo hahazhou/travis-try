@@ -1,3 +1,4 @@
 language:java
 jdk:
 -10.0.1
+script:wordladder.java
